@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "gh-pages": "3.2.0"
+  },
+  "scripts": {
+    "start": "(cd app; npm start)",
+    "deploy": "(cd app; npm run predeploy; npm run deploy)"
+  }
+}
