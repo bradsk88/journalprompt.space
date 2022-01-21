@@ -5,7 +5,7 @@ prompts.
 ## Using
 
 The application is hosted under a couple domains:
-- https://journalprompt.space
+- http://journalprompt.space
 - https://bradsk88.github.io/journalprompt.space
 
 ## Contributing
