@@ -96,6 +96,15 @@ const prompts = [
   `Talk about a book or movie that had a positive impact on your life. How did it change you?`,
   `What would a perfect day look like for you?`,
   `Recall an occasion someone was kind to you when you weren’t expecting it.`,
+
+  // Source: Brad Johnson
+  "What are the most important political issues to you right now? Have the changed in recent years?",
+  "What is your relationship to physical fitness right now?",
+  "What are some challenges you are dealing with at work?",
+  "What are your career aspirations right now?",
+  "What is a food that you recenty discovered?",
+  "If you could spend more of your time doing something, what would that thing be?",
+  "What major life events are happening in the next six months? How do you feel about them?"
 ];
 
 export class PromptGenerator {
